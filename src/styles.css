@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Monoton|Roboto+Mono');
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    font-weight: 300;
+    background-color:#cdcdcd;
+}
+.heading{
+    font-family: 'Monoton', cursive;
+    font-weight: normal;
+    font-size: 30px;
+    margin:0 20px 0 0;
+}
+
+.text-center{
+    text-align: center;
+}
